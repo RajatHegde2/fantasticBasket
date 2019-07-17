@@ -18,5 +18,19 @@ products updated by shopkeeper.
 Software used: Android Studio
 Database: Firebase
 
+Registration:
+
+![alt text](https://github.com/RajatHegde2/fantasticBasket/blob/master/WhatsApp%20Image%202019-07-17%20at%2011.18.08%20PM.jpeg)
+Login:
+
 ![alt text](https://github.com/RajatHegde2/fantasticBasket/blob/master/WhatsApp%20Image%202019-07-17%20at%2011.18.08%20PM%20(1).jpeg)
-![alt text](
+Display:
+
+
+![alt text](https://github.com/RajatHegde2/fantasticBasket/blob/master/WhatsApp%20Image%202019-07-17%20at%2011.18.08%20PM%20(3).jpeg)
+![alt text](https://github.com/RajatHegde2/fantasticBasket/blob/master/WhatsApp%20Image%202019-07-17%20at%2011.18.08%20PM%20(4).jpeg)
+
+Billing:
+
+
+![alt text](https://github.com/RajatHegde2/fantasticBasket/blob/master/WhatsApp%20Image%202019-07-17%20at%2011.18.08%20PM%20(5).jpeg)
